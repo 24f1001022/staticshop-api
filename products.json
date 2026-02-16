@@ -163,9 +163,9 @@
     "inventoryValue": 152273.67
   },
   "electronics": {
-    "count": 2,
-    "inventoryValue": 20936.82
-  },
+  "count": 2,
+  "inventoryValue": 20931.420000000002
+},
   "sports": {
     "count": 4,
     "inventoryValue": 68795.11
@@ -180,4 +180,5 @@
   }
 }
   }
+
 
